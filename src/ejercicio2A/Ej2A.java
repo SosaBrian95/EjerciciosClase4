@@ -1,4 +1,4 @@
-package ejercicio2;
+package ejercicio2A;
 
 import javax.swing.*;
 import java.io.BufferedReader;

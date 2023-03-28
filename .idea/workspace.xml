@@ -1,27 +1,162 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a3615d3-0592-4425-904a-20882ca2b473" name="Changes" comment="" />
+    <list default="true" id="0a3615d3-0592-4425-904a-20882ca2b473" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carpetaDeArchivo/numeros.txt" beforeDir="false" afterPath="$PROJECT_DIR$/carpetaDeArchivo/numeros.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carpetaDeArchivo/numeros3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/origen/ejercicio3/Ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/Ej3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio1B/Ej1B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio1B/Ej1B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2/Ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2/Ej2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio2A/Ej2A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio2A/Ej2A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio3/CodYDesco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/CodYDesco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicio3/ManejoArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicio3/ManejoArchivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejerciocio1/Ej1A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejerciocio1/Ej1A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejerciocio1C/Ej1C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejerciocio1C/Ej1C.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="01fb259c-8ab7-4280-8a08-14fe970074ae" />
+        <option name="url" value="https://github.com/SosaBrian95/EjerciciosClase4.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2NYnDCbx9rj7LELu2SKmteqlEc6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Brian/IdeaProjects/ManejoDeArchivos/src/archivos/CrearArchivo.java&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Brian\IdeaProjects\ejerciciosClase4\src\ejercicio3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ej1C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejerciocio1C.Ej1C" />
+      <module name="ejerciciosClase4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejerciocio1C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2.Ej2" />
+      <module name="ejerciciosClase4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej2A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio2A.Ej2A" />
+      <module name="ejerciciosClase4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio2A.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio3.Ej3" />
+      <module name="ejerciciosClase4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio3.Ej3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.Ej3" />
+      <module name="ejerciciosClase4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ejercicio3.Ej3" />
+        <item itemvalue="Application.Ej2A" />
+        <item itemvalue="Application.Ej2" />
+        <item itemvalue="Application.Ej3" />
+        <item itemvalue="Application.Ej1C" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +167,20 @@
       <updated>1679849787190</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
