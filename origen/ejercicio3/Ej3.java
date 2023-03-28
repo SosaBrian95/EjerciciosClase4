@@ -10,12 +10,12 @@ public class Ej3 {
         int desplazar = Integer.parseInt(JOptionPane.showInputDialog(null,"Ingrese un numero de desplazo: "));
         String repuesta = JOptionPane.showInputDialog(null,"Que desea realiza? \n"+"c-Codificar \n"+"d-Decodificar");
         repuesta.toLowerCase();
-
+//Guardamos  en el archivo entradas , lo ingresado en palabra
         ManejoArchivo.escrbirArchivo("carpetaDeArchivo\\entradas.txt",palabra);
 
         String palabracodificada ;
         String palabraDecodificar ;
-
+//codificamos o decodificamos y gardamos en el archivo salidas
         if (repuesta.equals("c") || repuesta.equals("codificar")){
             palabracodificada = CodYDesco.Codificar(palabra,desplazar);
             ManejoArchivo.escrbirArchivo("carpetaDeArchivo\\salidas.txt", palabracodificada);
